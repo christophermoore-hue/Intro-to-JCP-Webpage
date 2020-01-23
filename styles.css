@@ -1,0 +1,23 @@
+img {
+    width:500px;
+}
+body {
+    background:Url(https://nobleschools.org/wp-content/uploads/2018/01/jcp-200.png);
+    background-color:darkblue;
+}
+p {
+    color:crimson;
+}
+em { 
+    color:yellow;
+}
+a {
+    color:skyblue;
+}
+button {
+    color:crimson;
+    background-color:yellow;
+}
+.round {
+ width:140px;   
+    }
